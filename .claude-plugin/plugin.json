@@ -1,5 +1,6 @@
 {
   "name": "cross-platform-align",
+  "version": "1.0.0",
   "description": "Align, compare, translate, and review features between iOS (Swift/SwiftUI) and Android (Kotlin/Jetpack Compose) projects. Ensures behavioral parity across platforms with structured gap analysis.",
   "author": {
     "name": "Irwan Cannady",
