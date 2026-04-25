@@ -15,8 +15,12 @@ This skill helps you:
 ## Installation
 
 ```bash
-claude plugin add irwancannadys/Cross-Platform-Align-Skill
+git clone https://github.com/irwancannadys/Cross-Platform-Align-Skill.git
+cd Cross-Platform-Align-Skill
+./install.sh
 ```
+
+Then restart Claude Code or run `/reload-plugins`.
 
 ## Usage
 
